@@ -1,0 +1,6 @@
+# Ignorar archivos pcap
+*.pcapng
+*.pcap
+
+#Ignorar csv
+*.csv
